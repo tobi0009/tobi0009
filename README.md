@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tobi0009
+- 👋 Hi, I’m Onatade Tobi
 - 👀 I’m interested in Backend Development with Django
 - 🌱 I’m currently learning Django & Django Rest Framework
 - 💞️ I’m looking to collaborate on any project
